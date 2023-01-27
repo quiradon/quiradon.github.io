@@ -20,9 +20,9 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Oficina Arcana
+title   : Taverna da Fortuna
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  Bem-vindos à Taverna da Fortuna, o melhor local para se divertir e desfrutar de uma boa comida e bebida na cidade. Aqui, você encontrará uma atmosfera acolhedora e amigável. Aproxime-se e venha ouvir as historias de nossos bardos.
 
 
 ## => Language and Timezone
