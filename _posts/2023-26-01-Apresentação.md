@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Page - Article Header Overlay Background Image (Immersive + Translucent Header)
-tags: Apresentação, Quir
+title: Artificer do Balaco Baco chegou na região
+tags: Apresentação Quir
 mode: immersive
 header:
   theme: dark
@@ -27,10 +27,5 @@ Se você está procurando alguém que possa criar itens mágicos incríveis e di
 - Artefatos que ajudam a iluminar caminhos escuros
 - Projéteis mágicos para combate
 - E muito mais!
-
-## Entre em contato comigo:
-- E-mail: Quir.Artificer@email.com
-- Instagram: @Quir_Artificer
-- Discord: Quir#1234
-
+- 
 Não vejo a hora de criar algo incrível juntos!
